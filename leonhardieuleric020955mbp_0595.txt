@@ -1,0 +1,49 @@
+, nova nnruono annonarium
+
+onnonsrnnmo
+
+ι Nascantur residua c, d, c eto. ex potestatibus cd, al, rcy et
+etiam maiores quam N iu residuis admittendo ex potestatibus ecit, rw, xa etc.
+orientur residua cl, nl, aa etc, quae igitur etiam in serie residuorum 1, c,
+’ t, c eto. continebuntur. Tum vero potestates affl, affl, poema etc. reliu-
+, quent residua ac, oc, cto ete, quae ergo etiam in serie residuorum inveniri
+debebunt. Producta igitur quomodocunque ex residuis 1, c, t, c etc. per
+multiplicationem formata omnia in eadem serie residuorum occurrent, siquidem
+
+singula per ablationem divisoris N, quoties id fieri, potest, ad minimam for· .
+mam reducantur. o. E. D.
+
+eononnnnluu l
+
+43. Haeo indoles residuorum eo clarius eluceret, si eorum loeo ipsae
+illae potestates ipsius n, unde sunt orta, substituantur; tum enirn manifesto
+
+non solum omnes potestates harum potestatum, sed etiam earum producta
+quaecunque iu residuis occurrunt.
+
+eononnnnlun 2
+
+44. Neque tamen ideo numerus residuorum indeterminatus evadit; quem-
+admodum enim iam vidimus ex innumeris potestatibus paria residua pro-
+venire, ita, si omnia haec residua ex mutua multiplicatione nata ad formam
+minimam reducantur, ad multitudinem modicam revocabuntur.
+
+COROLLARIUM 3
+
+45. lta si minima potestas, quae per N divisa iterum unitatem relinquit,
+fuerit N, ita ut numerus residuorum l, o, b, c etc. sit za, tum in eodem
+
+numero omnia producta ex multiplicatione numerorum o, t, catenata con-
+tinebuntur, siquidem ab iis divisor N toties, quoties fieri potest, auferatur.
+
+SCHOLION
+
+le. Unicum exemplum omnibus dubiis, quae forte circa hanc apparentem ἵ
+residuorum multitudinem nasci possunt, solvendis sufficiet. sit igitur amr
+et pro divisore sumatur N 215, qui scilicet add sit primus; iam singulae
+binarii potestates per 15 divisae sequentia relinquent residua:
+
+ 
+
+c. ac numeros ’
+
